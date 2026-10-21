@@ -1,0 +1,244 @@
+[
+  {
+    "file": "png/spider-market-crash.png",
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 128984
+  },
+  {
+    "file": "webp/spider-market-crash.webp",
+    "format": "WEBP",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 72244
+  },
+  {
+    "file": "png/service-bell.png",
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 170244
+  },
+  {
+    "file": "webp/service-bell.webp",
+    "format": "WEBP",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 108684
+  },
+  {
+    "file": "png/case-file-pickle.png",
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 214524
+  },
+  {
+    "file": "webp/case-file-pickle.webp",
+    "format": "WEBP",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 139152
+  },
+  {
+    "file": "png/broken-vending-machine.png",
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 230405
+  },
+  {
+    "file": "webp/broken-vending-machine.webp",
+    "format": "WEBP",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 146228
+  },
+  {
+    "file": "png/thin-floor-caution.png",
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 239159
+  },
+  {
+    "file": "webp/thin-floor-caution.webp",
+    "format": "WEBP",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 157268
+  },
+  {
+    "file": "png/thin-floor-fall.png",
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 310287
+  },
+  {
+    "file": "webp/thin-floor-fall.webp",
+    "format": "WEBP",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 179160
+  },
+  {
+    "file": "png/bored-artist.png",
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 206213
+  },
+  {
+    "file": "webp/bored-artist.webp",
+    "format": "WEBP",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 126378
+  },
+  {
+    "file": "png/suspicious-bag.png",
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 218759
+  },
+  {
+    "file": "webp/suspicious-bag.webp",
+    "format": "WEBP",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 133122
+  },
+  {
+    "file": "png/pickle-jar.png",
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 242261
+  },
+  {
+    "file": "webp/pickle-jar.webp",
+    "format": "WEBP",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 150704
+  },
+  {
+    "file": "png/gong.png",
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 250236
+  },
+  {
+    "file": "webp/gong.webp",
+    "format": "WEBP",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 158622
+  },
+  {
+    "file": "png/pending-files.png",
+    "format": "PNG",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 250871
+  },
+  {
+    "file": "webp/pending-files.webp",
+    "format": "WEBP",
+    "size": [
+      512,
+      512
+    ],
+    "has_transparent_pixels": true,
+    "has_opaque_pixels": true,
+    "bytes": 153066
+  }
+]
